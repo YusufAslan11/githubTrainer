@@ -6,6 +6,6 @@ public class githubStudy {
 
     public static void toplam(int a,int b){
 
-        System.out.println(a+b);
+        System.out.println(3+a+b+7);
 
     }}
