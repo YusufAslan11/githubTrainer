@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class githubStudy {
     public static void main(String[] args) {
 
@@ -11,12 +13,13 @@ public class githubStudy {
 
         System.out.println("özel method");
 
-        System.out.println("deneme2");
-        System.out.println("deneme3");
+
         System.out.println("deneme4");
         System.out.println("deneme5");
         System.out.println("intellij");
         System.out.println("intelli2");
+        Scanner scan=new Scanner(System.in);
+
 
 
 
