@@ -8,6 +8,7 @@ public class githubStudy {
 
         System.out.println("deneme");
         System.out.println("deneme1");
+        System.out.println("özel method");
 
 
 
