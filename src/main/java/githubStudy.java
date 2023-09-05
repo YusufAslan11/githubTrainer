@@ -16,6 +16,7 @@ public class githubStudy {
         System.out.println("deneme4");
         System.out.println("deneme5");
         System.out.println("intellij");
+        System.out.println("intelli2");
 
 
 
