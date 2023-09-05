@@ -1,7 +1,15 @@
 public class githubStudy {
     public static void main(String[] args) {
 
+
         System.out.println("yeni bilgi");
+
+       toplam(5,9);
+
+        System.out.println("deneme");
+        System.out.println("deneme1");
+
+
 
     }
 
